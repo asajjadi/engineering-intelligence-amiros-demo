@@ -2,7 +2,14 @@
 
 A read-only, synthetic-data executive dashboard that illustrates how **Engineering Intelligence** can turn fragmented technical context into a transparent, human-governed readiness review.
 
-## What it demonstrates
+[Open the live demo](https://asajjadi.github.io/engineering-intelligence-amiros-demo/)
+
+## Portfolio materials
+
+- [NovaPump Reliability Review — Synthetic Case Study](CASE_STUDY.md)
+- [Portfolio Architecture](ARCHITECTURE.md)
+
+## What this demonstrates
 
 - Context-first engineering questions
 - Evidence review, selection, gaps, and traceability
